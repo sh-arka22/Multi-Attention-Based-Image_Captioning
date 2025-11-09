@@ -1,0 +1,46 @@
+# Python caches and virtualenvs
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+.venv/
+venv/
+env/
+.env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Modal/Log outputs
+*.log
+*.tmp
+
+# Model artifacts & large binaries
+results/*.pkl
+results/*.h5
+results/*.keras
+results/attention_runs/
+results/mymodel.*
+__modal/
+/data/
+
+# Dataset archives / images / videos
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.pt
+*.ckpt
+
+# Local config overrides
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
