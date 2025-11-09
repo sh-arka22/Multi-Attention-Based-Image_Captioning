@@ -404,4 +404,3 @@ modal app stop image-caption-api
 For issues or questions:
 - Modal Documentation: https://modal.com/docs
 - Modal Discord: https://discord.gg/modal
-- Project Repository: [Your GitHub URL]
